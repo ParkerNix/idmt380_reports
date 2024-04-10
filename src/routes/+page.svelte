@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Reports</h1>
+
+<h2>Please choose a report:</h2>
+<ul>
+	<li><a href="reports/ux_design">UX Design and A.I.</a></li>
+</ul>
