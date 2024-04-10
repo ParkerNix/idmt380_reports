@@ -2,6 +2,7 @@
 	import Challenges from '$lib/assets/Challenges.png';
 	import Cluster from '$lib/assets/Cluster.png';
 	import Interview from '$lib/assets/Screenshot 2024-04-10 001543.png';
+	import Notes from '$lib/assets/Screenshot 2024-04-10 121742.png';
 </script>
 
 <h1>UX Design and QoQo</h1>
@@ -151,6 +152,7 @@
 			<img src={Cluster} alt="QoQo's output for a Journey Map" />
 			<img src={Challenges} alt="QoQo's output for a User Interview Script" />
 			<img src={Interview} alt="QoQo's output for a How Might We statement and some solutions" />
+			<img src={Notes} alt="Sticky notes from my food truck project" />
 		</div>
 	</div>
 </div>
