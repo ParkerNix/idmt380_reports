@@ -2,7 +2,7 @@
 	import Challenges from '$lib/assets/Challenges.png';
 	import Cluster from '$lib/assets/Cluster.png';
 	import Interview from '$lib/assets/Screenshot 2024-04-10 001543.png';
-	import Notes from '$lib/assets/Screenshot 2024-04-10 121742.png';
+	import Notes from '$lib/assets/Screenshot 2024-04-10 122059.png';
 </script>
 
 <h1>UX Design and QoQo</h1>
