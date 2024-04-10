@@ -7,7 +7,10 @@ p,
 a,
 button,
 input,
-textarea {
+textarea, 
+ul,
+ol,
+li {
 	font-family: 'Lexend Deca', sans-serif;
 	font-size: 14px;
 	font-optical-sizing: auto;
@@ -54,6 +57,11 @@ textarea {
 	resize: none;
 }
 
+img {
+	width: 100%;
+	max-width: 500px;
+}
+
 .section {
 	display: flex;
 	flex-direction: row;
@@ -66,5 +74,10 @@ textarea {
 		box-shadow: 0 0 5px rgb(153, 166, 182);
 		padding: 16px;
 		width: 100%;
+	}
+
+	&-imgcard {
+		display: flex;
+		flex-wrap: wrap;
 	}
 }
