@@ -40,28 +40,28 @@
 		</p>
 		<ol>
 			<li>
-				Make an affinity map using notes taken from several user interviews and QoQo's "Affinity
-				Mapping" tool. This tool allows you to either use a text transcript of a user interview or a
-				group of sticky notes if you've already put your data into Figma. I chose to use the sticky
-				notes I had from the project, which meant all I had to do was select all the sticky notes
-				and hit "Cluster", which starts the grouping process. After a few seconds, it had finished
-				grouping the items into three named groups.
+				<strong>Make an affinity map</strong> using notes taken from several user interviews and QoQo's
+				"Affinity Mapping" tool. This tool allows you to either use a text transcript of a user interview
+				or a group of sticky notes if you've already put your data into Figma. I chose to use the sticky
+				notes I had from the project, which meant all I had to do was select all the sticky notes and
+				hit "Cluster", which starts the grouping process. After a few seconds, it had finished grouping
+				the items into three named groups.
 			</li>
 			<hr />
 			<li>
-				Make a interview script based off of some persona information and general interview topics
-				with their "Use Interview" tool. This was more of a form where it asked you to input
-				information like the age, gender, and occupation of a persona you are targeting, a general
-				situation the user would be in that they would be interacting with your product, and some
-				topics to ask questions about. After inputting all of that, it gave me a list of questions
-				grouped by the different topics I had entered.
+				<strong>Make a interview script</strong> based off of some persona information and general interview
+				topics with their "Use Interview" tool. This was more of a form where it asked you to input information
+				like the age, gender, and occupation of a persona you are targeting, a general situation the
+				user would be in that they would be interacting with your product, and some topics to ask questions
+				about. After inputting all of that, it gave me a list of questions grouped by the different topics
+				I had entered.
 			</li>
 			<hr />
 			<li>
-				Make a "How Might We" statement with potential solutions to solve the users issues with
-				their "How Might We" tool. This tool only asked you to define a challenge you wanted to
-				focus on solving. This statement essentially gets used as the "How Might We" statement, so I
-				felt that was slightly misleading, but it did then give a list of 10 solutions that could be
+				<strong>Make a "How Might We" statement</strong> with potential solutions to solve the users
+				issues with their "How Might We" tool. This tool only asked you to define a challenge you wanted
+				to focus on solving. This statement essentially gets used as the "How Might We" statement, so
+				I felt that was slightly misleading, but it did then give a list of 10 solutions that could be
 				taken to address the challenge.
 			</li>
 		</ol>
