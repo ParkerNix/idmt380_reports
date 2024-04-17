@@ -5,29 +5,24 @@
 	import Notes from '$lib/assets/Screenshot 2024-04-10 122059.png';
 </script>
 
-<h1>UX Design and QoQo</h1>
+<h1>Framer AI and Responsive Design</h1>
 <div class="section">
 	<div class="section-card">
 		<h2>Research Goal</h2>
 		<p>
-			In this report, I will be looking to find how A.I. tools help UX designers accomplish their
-			job more easily with current-day technology. I am mostly looking to find how these tools can
-			help facilitate the tedious parts of UX Design, such as organizing notes, creating interview
-			scripts, and so on. To do this, I will be looking at a specific tool, QoQo, to see if it is
-			effective in organizing data, as well as ideating to find solutions and making things like
-			scripts for the researcher to use in the field. In doing this, I will be able to analyze the
-			results it gives me so that I can give a rating from 1 to 10 on how well it was able to
-			complete it's task.
+			In this report, I will be looking at how the Framer AI handles responsive designs and if it
+			can effectively generate them. This, of course, means I want to see how well it can generate
+			designs with different screen sizes. Examining this tool will help to see where current AI is
+			with being able to do what designers might find to be a tedious but necessary task.
 		</p>
 	</div>
 	<div class="section-card">
 		<h2>Tool Researched</h2>
 		<p>
-			My research will focus on the tool, QoQo (pronounced "coco"), which is a plugin made to work
-			with Figma. It was created with the intention to automate the process of creating user journey
-			maps, generating affinity diagrams, writing interview scripts, an so on. This is a paid tool,
-			so it is somewhat inconvenient for the average user. That being said, I do feel as though the
-			potential for it to make researching and designing easier is very promising.
+			My research will Framer, a design platform that allows users to create web designs, much like
+			figma, and then easily deploy them. They explicitly state their ease of use and quick process
+			from design to deployment. That being said, I am focusing on the AI portion of their design
+			tool, which is meant to help you generate responsive designs via a short prompt.
 		</p>
 	</div>
 </div>
@@ -35,43 +30,23 @@
 <div class="section">
 	<div class="section-card">
 		<h2>Implementation and Testing</h2>
-		<p>
-			To test this tool, I took a project I worked on a few years back that had a focus on UX
-			research and design. I then used the QoQo tool to do three things:
-		</p>
+		<p>To examine this tool, I followed these steps per test:</p>
 		<ol>
 			<li>
-				<strong>Make an affinity map</strong> using notes taken from several user interviews and QoQo's
-				"Affinity Mapping" tool. This tool allows you to either use a text transcript of a user interview
-				or a group of sticky notes if you've already put your data into Figma. I chose to use the sticky
-				notes I had from the project, which meant all I had to do was select all the sticky notes and
-				hit "Cluster", which starts the grouping process. After a few seconds, it had finished grouping
-				the items into three named groups.
+				<strong>Give Framer AI a prompt</strong> with details on tone and what should be included.
 			</li>
 			<hr />
 			<li>
-				<strong>Make a interview script</strong> based off of some persona information and general interview
-				topics with their "Use Interview" tool. This was more of a form where it asked you to input information
-				like the age, gender, and occupation of a persona you are targeting, a general situation the
-				user would be in that they would be interacting with your product, and some topics to ask questions
-				about. After inputting all of that, it gave me a list of questions grouped by the different topics
-				I had entered.
+				<strong>Hit “Generate”</strong> and let the AI work
 			</li>
 			<hr />
 			<li>
-				<strong>Make a "How Might We" statement</strong> with potential solutions to solve the users
-				issues with their "How Might We" tool. This tool only asked you to define a challenge you wanted
-				to focus on solving. This statement essentially gets used as the "How Might We" statement, so
-				I felt that was slightly misleading, but it did then give a list of 10 solutions that could be
-				taken to address the challenge.
+				<strong>Evaluate the resulting designs</strong> based on if they are designed for smaller screens
+			</li>
+			<li>
+				<strong>Evaluate the general quality</strong> of the design
 			</li>
 		</ol>
-		<p>
-			This was all done using QoQo's documentation (<a
-				href="https://www.figma.com/community/plugin/1189158575928509194/qoqo-ai-ai-generated-wireframe-ux-personas-journey-mapping-sitemap-and-copywriting"
-				>documentation linked here</a
-			>).
-		</p>
 	</div>
 </div>
 
@@ -79,23 +54,29 @@
 	<div class="section-card">
 		<h2>Evaluation</h2>
 		<p>
-			To evaluate the effectiveness of each part of my testing, I'll be rating the overall end
-			product each part of the test produced on a scale of 1 to 10, with 1 being completely
-			ineffective and 10 being extremely effective. Each section will have it's own definition of
-			effectiveness.
+			To evaluate the effectiveness of each part of my testing, I give a few points on my thoughts
+			about how the test went. Then, I take what I've found from each of the tests and try to pull
+			some overall insights from the results.
 		</p>
 		<ol>
 			<li>
-				<strong>Affinity Mapping:</strong> For affinity mapping, my effectiveness definition relies
-				mostly on whether or not the groups made sense, as well as if the insights that came out of
-				them were of quality. While the process of using it was very quick and simple, the map it
-				produced put the sticky notes into three groups, of which were not very specific and did not
-				seem particularly of interest. For instance, one group was titled "Pick Up Time", which
-				wasn't really representative of the data under it. Another was titled "Buying from food
-				truck supports local people", which would not have been useful for finding solutions for a
-				food truck. It did not encapsulate the point of the sticky notes under it, either. Overall,
-				the tool was not particularly effective.
-				<strong>Effectiveness: 3/10</strong>
+				<ul>
+					<li>
+						<strong>Prompt:</strong> "Design a responsive website for a funding company called 'Fundi'.
+						The site's tone should be inspiring and professional and have home, product, and contact
+						pages."
+					</li>
+					<li>
+						<strong>Outcome:</strong>
+						<ul>
+							<li>Did what was asked in the prompt and provides responsive screens</li>
+							<li>Content is arranged in a way that makes sense</li>
+							<li>Design isn't the most visually appealing</li>
+							<li>Does provide somewhat convincing copy text</li>
+							<li>Not a big fan of the font choices</li>
+						</ul>
+					</li>
+				</ul>
 			</li>
 			<hr />
 			<li>
