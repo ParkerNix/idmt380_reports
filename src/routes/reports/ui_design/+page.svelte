@@ -58,6 +58,25 @@
 			<li>
 				<ul>
 					<li>
+						<strong>Prompt:</strong> "Design a responsive website for a funding company called "Fundi".
+						The site's tone should be inspiring and professional and have home, product, and contact
+						pages."
+					</li>
+					<li>
+						<strong>Outcome:</strong>
+						<ul>
+							<li>Did what was asked</li>
+							<li>Design isn’t the most appealing</li>
+							<li>Does provide somewhat convincing copy text on first try</li>
+							<li>Not a big fan of the font choices</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<hr />
+			<li>
+				<ul>
+					<li>
 						<strong>Prompt:</strong> "Design a mobile-first app called "Wego". The site's tone should
 						be cute and fun and have pages for planning trips, finding places to go, and adding friends."
 					</li>
