@@ -235,13 +235,25 @@
 				<ol>
 					<li>“Rate it 10” instead of “Rate it the same”</li>
 					<li>“I” instead of “aight”</li>
+					<li>"It was cooler. Watch." Instead of “it was a cool little watch”</li>
+					<li>“And you finished it?” but the sentence isn't a question, it's a statement</li>
+					<li>
+						“Wanna see what happens next?” but the sentence isn't a question, it's a statement
+					</li>
+					<li>“Something you thought was made” instead of “Something you thought was mid”</li>
+					<li>“Develop?” instead of “Develop 'em”</li>
+					<li>“For show” instead of “fo' sho'”</li>
 				</ol>
 			</li>
 			<li>
 				<strong>Youtube</strong>
 				<ol>
-					<li>“Rate it 10” instead of “Rate it the same”</li>
-					<li>“I” instead of “aight”</li>
+					<li>“Read it the same” instead of “Rate it the same”</li>
+					<li>Did not catch “Ten” in “Six out of ten”</li>
+					<li>“What since you asked” instead of “Well since you asked”</li>
+					<li>“Developer” instead of “Develop 'em”</li>
+					<li>“Chog” instead of “Should fo' sho'”</li>
+					<li>“I hate cho” instead of “I hate you”</li>
 				</ol>
 			</li>
 		</ul>
@@ -251,16 +263,20 @@
 			<li>
 				<strong>Tiktok</strong>
 				<ol>
-					<li>“Rate it 10” instead of “Rate it the same”</li>
-					<li>“I” instead of “aight”</li>
+					<li>
+						Connected “That's going to be difficult.” and “For them to start…” into one sentence
+					</li>
+					<li>“You” instead of “They”</li>
+					<li>“Every single day?” is shown but the sentence doesn't end there</li>
+					<li>
+						Has a bit of issue picking up when words are being quoted in a sentence (“Hmm, they're
+						not gonna change…”)
+					</li>
 				</ol>
 			</li>
 			<li>
 				<strong>Youtube</strong>
-				<ol>
-					<li>“Rate it 10” instead of “Rate it the same”</li>
-					<li>“I” instead of “aight”</li>
-				</ol>
+				<p>No issues.</p>
 			</li>
 		</ul>
 		<hr />
@@ -269,15 +285,28 @@
 			<li>
 				<strong>Tiktok</strong>
 				<ol>
-					<li>“Rate it 10” instead of “Rate it the same”</li>
-					<li>“I” instead of “aight”</li>
+					<li>Misses the first “Jerry?”</li>
+					<li>“Dude, no” instead of “Jerry, ngh”</li>
+					<li>“Why?” instead of “Brian?</li>
+					<li>Misses the second “Brian!”</li>
+					<li>“What?” instead of “BRIAN!”</li>
+					<li>“John?” instead of “JERRY!”</li>
+					<li>“God damn it!” instead of “JERRY!”</li>
 				</ol>
 			</li>
 			<li>
 				<strong>Youtube</strong>
 				<ol>
-					<li>“Rate it 10” instead of “Rate it the same”</li>
-					<li>“I” instead of “aight”</li>
+					<li>Ending words of sentences are slightly delayed</li>
+					<li>Misses “House”</li>
+					<li>Mistakes the ringing noise as music</li>
+					<li>Misses the first “Jerry?”</li>
+					<li>“House J” instead of “Jerry?”</li>
+					<li>“Ran” instead of “Brian?”</li>
+					<li>“Who was that?” instead of “What was that?”</li>
+					<li>Delayed “J” instead of “JERRY!” x2</li>
+					<li>“Dead” was transcribed but is never said</li>
+					<li>Misses “That?”</li>
 				</ol>
 			</li>
 		</ul>
@@ -287,15 +316,25 @@
 			<li>
 				<strong>Tiktok</strong>
 				<ol>
-					<li>“Rate it 10” instead of “Rate it the same”</li>
-					<li>“I” instead of “aight”</li>
+					<li>Doesn't put space between F and & (grammar)</li>
+					<li>Misspells Jewlery as Jewellery (grammar)</li>
+					<li>Capitalizes First in the middle of a sentence (grammar)</li>
+					<li>Capitalizes Learned in the middle of a sentence (grammar)</li>
+					<li>Capitalizes Not in the middle of a sentence (grammar)</li>
+					<li>Capitalizes A in the middle of a sentence (grammar)</li>
 				</ol>
 			</li>
 			<li>
 				<strong>Youtube</strong>
 				<ol>
-					<li>“Rate it 10” instead of “Rate it the same”</li>
-					<li>“I” instead of “aight”</li>
+					<li>Capitalizes Korean Village in the middle of a sentence (grammar)</li>
+					<li>Capitalizes Jeweler in the middle of a sentence (grammar)</li>
+					<li>“$15,000” instead of “1.5 thousand dollars” (Not an issue, but worth noting)</li>
+					<li>“Parent” was transcribed but is never said</li>
+					<li>Capitalizes Brands in the middle of a sentence (grammar)</li>
+					<li>“Independents” instead of “Independence”</li>
+					<li>Capitalizes Our in the middle of a sentence (grammar)</li>
+					<li>Capitalizes Gatherings in the middle of a sentence (grammar)</li>
 				</ol>
 			</li>
 		</ul>
