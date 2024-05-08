@@ -8,6 +8,12 @@
 			written in Typescript. I'll be basing my findings off of a 1 to 10 scale that rates the
 			effectiveness of each test.
 		</p>
+		<p>
+			To start, my hypothesis was that Codiumate would be great at testing simple, short code that
+			was functioning. However, I thought it would not be able to write test cases if the code was
+			broken and it might struggle to write them when the functions became more complex. Overall, I
+			was expecting an average rating of 6/10.
+		</p>
 	</div>
 	<div class="section-card">
 		<h2>Tool Researched</h2>
