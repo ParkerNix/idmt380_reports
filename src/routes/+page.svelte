@@ -7,4 +7,5 @@
 	<li><a href="reports/media">Youtube, Tiktok, and A.I. Transcription (Media)</a></li>
 	<li><a href="reports/text">Grammarly, LogicBalls, and Text Generation (Text)</a></li>
 	<li><a href="reports/typescript">Codiumate and Test Cases (JS/TS)</a></li>
+	<li><a href="reports/accessibility">Accessibility Applied to ChatGPT (Accessibility)</a></li>
 </ul>
