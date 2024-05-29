@@ -8,4 +8,5 @@
 	<li><a href="reports/text">Grammarly, LogicBalls, and Text Generation (Text)</a></li>
 	<li><a href="reports/typescript">Codiumate and Test Cases (JS/TS)</a></li>
 	<li><a href="reports/accessibility">Accessibility Applied to ChatGPT (Accessibility)</a></li>
+	<li><a href="reports/seo">ChatGPT's ability to teach SEO Basics (SEO)</a></li>
 </ul>
