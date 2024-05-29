@@ -28,28 +28,36 @@
 		<p>To examine ChatGPT's ability to help me learn about SEO:</p>
 		<ol>
 			<li>
-				<strong>Ask ChatGPT 3.5 for 5 general tips about SEO.</strong> Compare these tips to the guidelines
-				on Google's Search Central and determine if it matches or not. 5 points possible for the comparison,
-				one for each tip. DO NOT RESET THE CHAT. (5 points)
+				<strong>Ask ChatGPT 3.5 for 5 general tips about SEO.</strong> Compare these tips to the
+				guidelines on
+				<a href="https://developers.google.com/search" target="_blank">Google's Search Central</a> and
+				determine if it matches or not. 5 points possible for the comparison, one for each tip. DO NOT
+				RESET THE CHAT. (5 points)
 			</li>
 			<li>
 				<strong>
 					Ask ChatGPT 3.5 for 3 example websites that have good SEO and for it to explain why they
 					are good examples of the tips it gave in the first step.
-				</strong> Compare the examples to see if they match with the tips. 3 points possible for the
-				comparison of the examples, plus an extra 1 point if it can give extra tips that were not given
-				at first but match the Google Search Central. DO NOT RESET THE CHAT. (3 points + 1 extra point)
+				</strong>
+				Compare the examples to see if they match with the tips. 3 points possible for the
+				comparison of the examples, plus an extra 1 point if it can give extra tips that were not
+				given at first but match the
+				<a href="https://developers.google.com/search" target="_blank">Google Search Central</a>. DO
+				NOT RESET THE CHAT. (3 points + 1 extra point)
 			</li>
 			<li>
 				<strong>
 					Give ChatGPT 3.5 a link to my portfolio and ask it to evaluate where the site can do
 					better in terms of SEO, being as specific as possible.
-				</strong> Compare these points to the tips given before and determine if there is a match between
-				the tips and the advice for the site. 3 points possible for the comparison (1 if 33% of the advice
-				matches, 2 if 66% matches, and 3 if at least 90% matches, there is a max of 1 point if there
-				is only one piece of advice is given), 2 points possible if it can give me specific advice about
-				where on the page I can improve, and 1 extra point if it can give extra tips that were not given
-				at first but match the Google Search Centra. (5 points + 1 extra point)
+				</strong>
+				Compare these points to the tips given before and determine if there is a match between the
+				tips and the advice for the site. 3 points possible for the comparison (1 if 33% of the
+				advice matches, 2 if 66% matches, and 3 if at least 90% matches, there is a max of 1 point
+				if there is only one piece of advice is given), 2 points possible if it can give me specific
+				advice about where on the page I can improve, and 1 extra point if it can give extra tips
+				that were not given at first but match the
+				<a href="https://developers.google.com/search" target="_blank">Google Search Central</a>. (5
+				points + 1 extra point)
 			</li>
 			<li>Total up all points and find the score it receives out of 13 (15 points possible).</li>
 		</ol>
@@ -68,59 +76,53 @@
 			</li>
 			<li>
 				<strong>Output:</strong>
+				<p>
+					Of course! Improving the SEO (Search Engine Optimization) of a website involves various
+					strategies and techniques. Here are five tips to help you get started:
+				</p>
 				<ul>
 					<li>
-						<p>
-							Of course! Improving the SEO (Search Engine Optimization) of a website involves
-							various strategies and techniques. Here are five tips to help you get started:
-						</p>
-						<ul>
-							<li>
-								Quality Content Creation: Content is king in the world of SEO. Create high-quality,
-								relevant, and engaging content that adds value to your audience. Ensure your content
-								is well-written, informative, and addresses the needs and interests of your target
-								audience. Use keywords strategically within your content to improve its visibility
-								to search engines.
-							</li>
-							<li>
-								Optimize On-Page Elements: Optimize on-page elements such as title tags, meta
-								descriptions, headings, and URL structures. These elements provide search engines
-								with important information about your website's content. Include relevant keywords
-								in these elements, but avoid keyword stuffing, as it can negatively impact your SEO
-								efforts.
-							</li>
-							<li>
-								Mobile Optimization: With the increasing use of mobile devices, optimizing your
-								website for mobile is essential for SEO. Ensure your website is mobile-friendly and
-								offers a seamless user experience across different devices and screen sizes. Google
-								prioritizes mobile-friendly websites in its search results, so mobile optimization
-								can significantly impact your SEO rankings.
-							</li>
-							<li>
-								Quality Backlinks: Building high-quality backlinks from reputable and relevant
-								websites can improve your website's authority and search engine rankings. Focus on
-								earning backlinks from authoritative websites within your industry or niche. You can
-								achieve this through guest blogging, creating shareable content, participating in
-								online communities, and reaching out to influencers or industry leaders for
-								collaboration opportunities.
-							</li>
-							<li>
-								Regular Monitoring and Analysis: SEO is an ongoing process, and it's essential to
-								monitor your website's performance regularly and analyze the effectiveness of your
-								SEO efforts. Use tools like Google Analytics and Google Search Console to track your
-								website's traffic, keyword rankings, and other relevant metrics. Based on your
-								analysis, make necessary adjustments to your SEO strategy to improve your website's
-								visibility and rankings in search engine results.
-							</li>
-						</ul>
-						<p>
-							Implementing these tips can help you improve the SEO of your website and increase its
-							visibility to potential visitors and customers. Remember that SEO is a long-term
-							investment, and results may take time to manifest, so patience and consistency are
-							key.
-						</p>
+						Quality Content Creation: Content is king in the world of SEO. Create high-quality,
+						relevant, and engaging content that adds value to your audience. Ensure your content is
+						well-written, informative, and addresses the needs and interests of your target
+						audience. Use keywords strategically within your content to improve its visibility to
+						search engines.
+					</li>
+					<li>
+						Optimize On-Page Elements: Optimize on-page elements such as title tags, meta
+						descriptions, headings, and URL structures. These elements provide search engines with
+						important information about your website's content. Include relevant keywords in these
+						elements, but avoid keyword stuffing, as it can negatively impact your SEO efforts.
+					</li>
+					<li>
+						Mobile Optimization: With the increasing use of mobile devices, optimizing your website
+						for mobile is essential for SEO. Ensure your website is mobile-friendly and offers a
+						seamless user experience across different devices and screen sizes. Google prioritizes
+						mobile-friendly websites in its search results, so mobile optimization can significantly
+						impact your SEO rankings.
+					</li>
+					<li>
+						Quality Backlinks: Building high-quality backlinks from reputable and relevant websites
+						can improve your website's authority and search engine rankings. Focus on earning
+						backlinks from authoritative websites within your industry or niche. You can achieve
+						this through guest blogging, creating shareable content, participating in online
+						communities, and reaching out to influencers or industry leaders for collaboration
+						opportunities.
+					</li>
+					<li>
+						Regular Monitoring and Analysis: SEO is an ongoing process, and it's essential to
+						monitor your website's performance regularly and analyze the effectiveness of your SEO
+						efforts. Use tools like Google Analytics and Google Search Console to track your
+						website's traffic, keyword rankings, and other relevant metrics. Based on your analysis,
+						make necessary adjustments to your SEO strategy to improve your website's visibility and
+						rankings in search engine results.
 					</li>
 				</ul>
+				<p>
+					Implementing these tips can help you improve the SEO of your website and increase its
+					visibility to potential visitors and customers. Remember that SEO is a long-term
+					investment, and results may take time to manifest, so patience and consistency are key.
+				</p>
 			</li>
 			<li>Score: 5/5</li>
 		</ul>
