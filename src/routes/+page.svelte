@@ -282,19 +282,26 @@
 		</p>
 		<h2><span>Conclusion</span></h2>
 		<p>
-			<span
-				>At the end of my research, I feel I have deepened my understanding of AI and where it is
-				headed. I learned that, for most fields, AI is still largely in need of human supervision to
-				ensure that the outputs it gives are of quality. I was largely surprised to find that even
-				areas I thought were pretty developed, such as text generation, are lacking a sense of
-				realism in that they do not feel natural or similar to what a human might create. I think,
-				in the future, we will see AI train with more and more content, which will in turn make them
-				better creators. I would just hope that the training comes from many diverse sources. As
-				seen in my transcription research, many are not trained to recognize varied forms of speech.
-				This is a big concern, and could lead to AI becoming somewhat discriminate. Therefore,
-				it&rsquo;s crucial that we review not only the tools themselves, but perhaps also how they
-				are created.</span
-			>
+			At the end of my research, I feel I have deepened my understanding of AI and where it is
+			headed. I learned that, for most fields, AI is still largely in need of human supervision to
+			ensure that the outputs it gives are of quality. I was largely surprised to find that even
+			areas I thought were pretty developed, such as text generation, are lacking a sense of realism
+			in that they do not feel natural or similar to what a human might create.
+		</p>
+		<p>
+			As a developer, I found that some tools, like Codiumate, could be very useful. I could see
+			myself using it to improve code we've had for a while in a codebase at work, or for writing
+			out test cases for code that we need to make one hundred percent sure works. Being able to do
+			this in a field like financial technology is invaluable because it saves time for a team of
+			developers, which in turn saves time for shareholders who can push out products faster.
+		</p>
+		<p>
+			I think, in the future, we will see AI train with more and more content, which will in turn
+			make them better creators. I would just hope that the training comes from many diverse
+			sources. As seen in my transcription research, many are not trained to recognize varied forms
+			of speech. This is a big concern, and could lead to AI becoming somewhat discriminate.
+			Therefore, it&rsquo;s crucial that we review not only the tools themselves, but perhaps also
+			how they are created.
 		</p>
 	</div>
 </div>
